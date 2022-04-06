@@ -2,12 +2,14 @@
 
 - [Table Of Contents](#table-of-contents)
   - [About](#about)
-  - [Branch Structures](#branch-structures)
+  - [UEFI](#uefi)
   - [Cloning the repository](#cloning-the-repository)
   - [Running `OS.bin`](#running-osbin)
   - [TODO](#todo)
 
 ## About
+
+**This Project is currently outdated and has moved to UEFI(more information in )
 
 **I am not a professional at OS Development by any means.**
 **Don't expect this OS to do anything for a long while**
@@ -28,9 +30,13 @@ Notible Features as of current
 - Reading text/binary files
 - Memory Map display (Show usable memory map locations)
 
-## Branch Structures
+## UEFI
 
-The master branch of the repository is currently the BIOS branch as it will be the most up to date on the current OS development. The master branch will most likely be subject to change into the UEFI branch in the future as I will develop more on UEFI than BIOS in the near future. As of now the BIOS branch will have small updates here and there to documentation but will be abandoned when I make the switch to UEFI
+**THIS PROJECT HAS MOVED TO A DIFFERENT REPOSITORY**
+
+[New Location](https://github.com/Lt1Gt0/OSu)
+
+This repository is currently the BIOS implementation of OSu.The current implementation of OSu has moved to UEFI which is more well developed. As of now the BIOS implementation may have small updates here but will be abandoned for the most part until otherwise (or if I'm bored idk)
 
 ## Cloning the repository
 
@@ -87,3 +93,4 @@ Kernel
 
 Code Cleanup
 - [ ] Overall simplification
+- [ ] 
