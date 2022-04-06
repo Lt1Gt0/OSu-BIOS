@@ -9,7 +9,7 @@
 
 ## About
 
-**This Project is currently outdated and has moved to UEFI(more information in )
+**This Project is currently outdated and has moved to UEFI (more information in [UEFI](#uefi))**
 
 **I am not a professional at OS Development by any means.**
 **Don't expect this OS to do anything for a long while**
